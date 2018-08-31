@@ -8084,8 +8084,7 @@ libpqxx-dev
 libpqxx-doc
 libpqxx3-dev
 libpqxx3-doc
-libprocps4
-libprocps4-dev
+libproc-dev
 libproj-dev
 libproj-dev:i386
 libproj-java
